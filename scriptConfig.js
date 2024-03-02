@@ -14,9 +14,10 @@ var projects = [ //项目数组，放的是每一个要编译的项目，
   { id: 3, compile: true, name: "快捷输入", main: "./main.js" },
   { id: 4, compile: false, name: "websocket", main: "./main.js" },
   {
-    id: 6, compile: false, name: "qq消息", main: "./main.js",
+    id: 6, compile: true, name: "qq消息", main: "./main.js",
     others: ['./main.js'] //其他需要编译的文件,可以包含入口，也可不包含
   },
+  { id: 7, compile: true, name: "JdPriceProtectionAutoJs", main: "./jdpriceprotectionautojs_main.js" },
 ]
 
 var config = {

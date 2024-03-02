@@ -8,3 +8,4 @@ build/*
 !build/index.js
 ApplicationCenter/autojsDemo/*
 ApplicationCenter/pro商店脚本/*
+worker/*
