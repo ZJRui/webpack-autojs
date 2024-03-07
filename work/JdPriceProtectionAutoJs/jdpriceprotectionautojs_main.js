@@ -1,11 +1,11 @@
 
 
-// const { applyPriceProtectionPerOrder } = require("./applyPriceProtectionPerOrder.js")
+const { applyPriceProtectionPerOrder } = require("./applyPriceProtectionPerOrder.js")
 
 
-// applyPriceProtectionPerOrder();
+applyPriceProtectionPerOrder();
 
-const { oneClickPriceProtection } = require("./jdOneClickPriceProtection.js")
+// const { oneClickPriceProtection } = require("./jdOneClickPriceProtection.js")
 
-oneClickPriceProtection();
+// oneClickPriceProtection();
 
